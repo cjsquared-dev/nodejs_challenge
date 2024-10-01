@@ -1,9 +1,9 @@
-# Event Scheduler
+# Simple Web app
 
-  ![License](https://img.shields.io/badge/license-Apache2.0-blue.svg)
+  ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-A simple web app to create schedules for events
+cool new web app
 
 
 # Table of Contents
@@ -15,19 +15,19 @@ A simple web app to create schedules for events
 * [Questions](#questions)
 
 ## Installation
-Run NPM before installing app
+run npm install
 
 ## Usage
-Use by event schedulers to coordinate events
+have fun with this
 
 ## License
-This project is licensed under the Apache 2.0 License.
+This project is licensed under the MIT License.
 
 ## Contributing
-Please label each commit with extensive details
+always have a smile on your face when contributing
 
 ## Tests
-Test only in local machines
+test daily
 
 ## Questions
-For any questions, please reach out to chrisj or email me at chrisj@noemail.com.
+For any questions, please reach out to chrisjoh or email me at chirsjoh@adobe.com.
