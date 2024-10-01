@@ -19,6 +19,8 @@ This application relies on installing npm packages on your local machine,
 
 Simply invoke node index.js and the CLI will prompt questions to help facilitate your README file.
 
+Please see Video walkthrough:  https://drive.google.com/file/d/1dPYUphC3glwQkkdNWL_F1XI69XFlEr3f/view
+
 ## Credits
 
 Myself, cjquared-dev with lots of help from class resources!
