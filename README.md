@@ -21,6 +21,8 @@ Simply invoke node index.js and the CLI will prompt questions to help facilitate
 
 Please see Video walkthrough:  https://drive.google.com/file/d/1dPYUphC3glwQkkdNWL_F1XI69XFlEr3f/view
 
+Sample Output: https://github.com/cjsquared-dev/nodejs_challenge/blob/258da125e7f0ab2ab97bc25dba9614706932a440/newREADME.md
+
 ## Credits
 
 Myself, cjquared-dev with lots of help from class resources!
