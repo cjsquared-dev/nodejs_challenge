@@ -63,7 +63,7 @@ function init() {
     inquirer.prompt(questions)
         .then((answers) => {
             const markdown = generateMarkdown(answers);
-            writeToFile('README.md', markdown);
+            writeToFile('newREADME.md', markdown);
         })
         .catch((error) => {
             console.error('Error initializing app', error);
