@@ -1,9 +1,9 @@
-# adfadfadf
+# A simple Web Application
 
   ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-adfadsfadf
+A fun simple web application to make your life easier
 
 
 # Table of Contents
@@ -15,19 +15,19 @@ adfadsfadf
 * [Questions](#questions)
 
 ## Installation
-adfadfafd
+Download and run on your local desktop
 
 ## Usage
-adfdasfadsf
+Whenever you are down and need a boost or to cheer up, run this application!
 
 ## License
 This project is licensed under the MIT License.
 
 ## Contributing
-adfadsfadf
+Always contribute with a smile on your face!
 
 ## Tests
-adfadfadfaf
+Test often, and always!
 
 ## Questions
-For any questions, please reach out to adfadsfadfadsf or email me at adfadfadfs.
+For any questions, please reach out to cjsquared-dev or email me at cjsquared@noemail.com.
